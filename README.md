@@ -1,1 +1,2 @@
 # Java-Mini-Projects
+This repository contains NYU CS9053 JAVA COURSE HOMEWORK AND MY PERSONAL SOLUTIONS.
