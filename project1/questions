@@ -1,0 +1,8 @@
+Put all answers in 'questions' file.  One answer per line in the same order as the questions below.
+1) How do you compile a file named Sonja.java where the generated class file is placed in directory 'classes'?
+2) How do you run a class named Rolland in package edu.nyu.cs9053 if the compiled class file is in directory 'classes'?
+3) How do you compile a file named Dane.java in the same directory?
+4) How do you run a class named Lannie in package edu.nyu.cs9053.homework1?
+5) How do you compile a file named Grady.java in package edu.nyu.cs9053.homework1 if the base package directory starts in directory src/main/java from the current directory?
+
+

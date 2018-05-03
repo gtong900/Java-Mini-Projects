@@ -1,0 +1,5 @@
+javac -d classes Sonja.java
+java -cp classes edu.nyu.cs9053.Rolland
+javac Dane.java
+java edu.nyu.cs9053.homework1.Lannie
+javac -sourcepath src/main/java edu/nyu/cs9053/homework1/Grady.java
